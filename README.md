@@ -1,4 +1,6 @@
 # Achoo
+This is an adaptation of tmthyjames' Achoo project. It is adapted to take various news/relevant inputs from the internet and predict whether shares of a stock should be bought or sold on that day. May be considered as a simple 'in or out of the market' problem in the beginning to simplify the problem.
+
 Achoo uses a Raspberry Pi to predict if my son will need his inhaler on any given day using weather, pollen, and air quality data. If the prediction for a given day is above a specified threshold, the Pi will email his school nurse, and myself, notifying her that he may need preemptive treatment. **TUTORIAL COMING SOON**
 
 Prompted by [this](https://www.reddit.com/r/Python/comments/70udwq/what_routine_tasks_do_you_automate_with_programs/) reddit post. Lots of great ideas in there.
